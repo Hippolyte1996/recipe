@@ -8,5 +8,3 @@ Ingredients for the Tomato tart recipe:
 
 You can add any other toppings you would like such as cheese for some broiling! 
 Enjoy me recipe!
-
-Phone Number: 911-911-911
