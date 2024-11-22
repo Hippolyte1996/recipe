@@ -1,4 +1,3 @@
-### This is a REMOTE change
 recipe
 line 2 changed remotely
 Tomato and Dijon Mustard Tart! 
@@ -8,4 +7,3 @@ Enjoy!
 
 Hippolyte Gallot
 last line changed locally
-### This is a REMOTE change
