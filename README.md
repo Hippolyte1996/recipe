@@ -13,6 +13,8 @@ For this recipe, you'll need the following kitchen items:
 
 *Enjoy!* 
 
+![Tomato tart recipe](recipe/recipe.jpg)
+
 Hippolyte Gallot
 last line changed locally
 ### This is a REMOTE change :O
